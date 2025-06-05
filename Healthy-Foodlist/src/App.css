@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center; /* horizontally center */
+  align-items: center;     /* vertically center */
+  min-height: 100vh;       /* full viewport height */
+  margin: 0;               /* remove default body margin */
+}
+.foodheading{
+  background-color: #f0f8ff;
+  color: crimson;
+  text-align: center;
+}

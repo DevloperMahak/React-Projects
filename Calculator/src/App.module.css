@@ -1,0 +1,10 @@
+.calculator{
+  position: absolute;
+  margin-left:500px;
+  background-color:white;
+  border-style:solid ;
+  border-color: black;
+  border-radius: 5px;
+  width: 450px;
+  height:680px;
+}

@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center; /* horizontally center */
+  align-items: center;     /* vertically center */
+  min-height: 100vh;       /* full viewport height */
+  margin: 0;               /* remove default body margin */
+}
+
+.button-2{
+  min-width: 80px;
+}
+.row-2{
+  padding: 5px;
+  margin: 10px 5px;
+}
+
